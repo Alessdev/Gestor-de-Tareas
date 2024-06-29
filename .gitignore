@@ -1,0 +1,5 @@
+# Ignorar la carpeta node_modules en el directorio backend
+backend/node_modules/
+
+# Ignorar el archivo package-lock.json en el directorio backend
+backend/package-lock.json
